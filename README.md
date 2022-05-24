@@ -3,7 +3,7 @@
   </h1>
   
   <h3 align='center'>
-    Software Engineer in Sensata Technologies, Sofia.
+    FullStack Developer at Bet365, Sofia.
   </h3>
   
   ## 🛠 &nbsp;Tech Stack
