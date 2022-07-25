@@ -39,9 +39,9 @@
     </a>&nbsp;&nbsp;
   </p>
   
-  - 🔭 I’m currently working on becoming a Full Stack Developer.         
-  - 🌱 I’m currently learning GoLang, React, RabbitMQ and Apache Kafka.  
+  - 🔭 I’m currently working as a Full Stack Developer.         
+  - 🌱 I’m currently learning GoLang, ReactJS, RabbitMQ and Apache Kafka.  
   - 👯 I’m looking to collaborate on Creating Web Applications or other interesting projects                         
   - 💬 Ask me about Anything...                                     
   - 📫 How to reach me: ... kstoev9316@gmail.com 📩                                                                      
-  - ⚡ Fun fact: ... I love adrenaline!   
+  - ⚡ Fun fact: ... I love adrenaline and cooking!   
