@@ -23,13 +23,6 @@
   
   <br>
   
-  <div align='center'>
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ddxkalin&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ddxkalin&layout=compact&langs_count=8&hide=java,r&theme=react "/>
-  </div>
-  
-  <br>
-  
   <p align='center'>
     <a href="https://www.linkedin.com/in/kalinstoev9316/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
