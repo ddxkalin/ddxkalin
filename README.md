@@ -3,7 +3,7 @@
   </h1>
   
   <h3 align='center'>
-    FullStack Developer at Bet365, Sofia.
+    FullStack Developer
   </h3>
   
   ## 🛠 &nbsp;Tech Stack
@@ -33,7 +33,7 @@
   </p>
   
   - 🔭 I’m currently working as a Full Stack Developer.         
-  - 🌱 I’m currently learning GoLang, ReactJS, RabbitMQ and Apache Kafka.  
+  - 🌱 I’m currently learning GoLang, ReactJS & RabbitMQ.  
   - 👯 I’m looking to collaborate on Creating Web Applications or other interesting projects                         
   - 💬 Ask me about Anything...                                     
   - 📫 How to reach me: ... kstoev9316@gmail.com 📩                                                                      
