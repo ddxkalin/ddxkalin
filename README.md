@@ -34,8 +34,8 @@
     </a>&nbsp;&nbsp;
   </p>
   
-  - 🔭 I’m currently working as a Full Stack Developer.         
-  - 👯 I’m looking to collaborate on Creating Web Applications or other interesting projects                         
+  - 🔭 I’m currently working as a Senior IT Consultant.         
+  - 👯 I’m looking to collaborate on innovative start-ups or other interesting projects                         
   - 💬 Ask me about Anything...                                     
   - 📫 How to reach me: ... kstoev9316@gmail.com 📩                                                                      
   - ⚡ Fun fact: ... I love adrenaline and cooking!   
