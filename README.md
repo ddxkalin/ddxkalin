@@ -3,7 +3,7 @@
   </h1>
   
   <h3 align='center'>
-    Full Stack Software Engineer
+    Senior IT Consultant
   </h3>
   
   ## 🛠 &nbsp;Tech Stack
