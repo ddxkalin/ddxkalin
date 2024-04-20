@@ -40,18 +40,10 @@
   </p>
   
   <p align='center'> 
-      <p align='center'>
-          Contact me via
-          <br>
-            <a href="https://www.linkedin.com/in/kalinstoev9316/">
-              <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-            </a>&nbsp;&nbsp;
-            <a href="mailto:kstoev9316@gmail.com">
-              <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-            </a>&nbsp;&nbsp;
-      </p>
-  </p>
-  
-  - 🔭 I’m currently working as a IT Consultant.         
-  - 👯 I’m looking to collaborate on innovative start-ups or other interesting projects                                         
-  - 📫 How to reach me: ... kstoev9316@gmail.com 📩                                 
+    <a href="https://www.linkedin.com/in/kalinstoev9316/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="mailto:kstoev9316@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+    </a>&nbsp;&nbsp;
+  </p> 
