@@ -2,10 +2,6 @@
     Kalin Stoev 💻
   </h1>
   
-  <h3 align='center'>
-    IT Consultant
-  </h3>
-  
   ## 🛠 &nbsp;Tech Stack
   <p align='center'>
     <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
