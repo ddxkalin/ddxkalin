@@ -5,7 +5,7 @@
 ```json
 {
   "job": "Software Engineer",
-  "interest": ["Tech", "Traveling", "Crypto", "Negroni"],
+  "interest": ["Tech", "Traveling", "Extreme Sports", "Crypto", "Negroni"],
   "website": ["stoev.tech"]
 }
 ```
