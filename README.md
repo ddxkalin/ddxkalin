@@ -5,8 +5,8 @@
 ```json
 {
   "job": "Software Engineer",
-  "stack": ["React", "React-Native", "JS", "TS", "Python", "Go", "Langchain", "AWS", "..............."],
-  "interest": ["Tech", "Traveling", "Crypto", "Negroni", "......."]
+  "interest": ["Tech", "Traveling", "Crypto", "Negroni"],
+  "website": ["stoev.tech"]
 }
 ```
 
