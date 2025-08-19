@@ -1,6 +1,14 @@
 <h1 align='center'>
-  Kalin Stoev 💻
+  Hey, I'm Kalin 🛸
 </h1>
+
+```json
+{
+  "job": "Software Engineer",
+  "stack": ["React", "React-Native", "JS", "TS", "Python", "Go", "Langchain", "AWS", "..............."],
+  "interest": ["Tech", "Traveling", "Crypto", "Negroni", "......."]
+}
+```
 
 ## 🛠️ &nbsp;Tech Stack
 <p align="center">
