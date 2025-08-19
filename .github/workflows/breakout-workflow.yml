@@ -36,4 +36,4 @@ jobs:
         run: |
           git add images/breakout-light.svg images/breakout-dark.svg
           git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
-          git push
+          git push --force
