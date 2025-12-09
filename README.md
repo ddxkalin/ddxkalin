@@ -4,9 +4,9 @@
 
 ```json
 {
-  "job": "Software Engineer",
-  "interest": ["Tech", "Traveling", "Extreme Sports", "Crypto", "Negroni"],
-  "website": ["stoev.tech"]
+  "job": "Co-Foudner & Head of Engineering",
+  "interest": ["tech", "traveling", "health_care","extreme_sports", "crypto", "negroni"],
+  "website": ["www.xheal.ai"]
 }
 ```
 
