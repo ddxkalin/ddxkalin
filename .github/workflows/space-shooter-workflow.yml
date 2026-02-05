@@ -23,7 +23,6 @@ jobs:
           username: ddxkalin
           output-path: 'images/space-shooter.gif'
           strategy: 'random'
-          fps: 40
 
       - name: Configure git
         run: |
