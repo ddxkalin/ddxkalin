@@ -16,6 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Create images directory
+        run: mkdir -p images
+
       - name: Generate Space Shooter GIF
         uses: czl9707/gh-space-shooter@v1
         with:
