@@ -6,7 +6,7 @@
 {
   "job": "Co-Foudner & Head of Engineering",
   "interest": ["tech", "traveling", "health_care","extreme_sports", "crypto", "negroni"],
-  "website": ["www.xheal.ai"]
+  "website": ["www.xheal.ai", "www.applauselab.ai"]
 }
 ```
 
