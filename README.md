@@ -5,7 +5,7 @@
 ```json
 {
   "job": "Co-Foudner & Head of Engineering",
-  "interest": ["tech", "traveling", "health_care","extreme_sports", "crypto", "negroni"],
+  "interest": ["deeptech", "traveling", "healthcare","extreme_sports", "entrepreneurship", "negroni"],
   "website": ["www.xheal.ai", "www.applauselab.ai"]
 }
 ```
