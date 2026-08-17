@@ -4,9 +4,10 @@
 
 ```json
 {
-  "job": "Co-Foudner & Head of Engineering",
-  "interest": ["deeptech", "traveling", "healthcare","extreme_sports", "entrepreneurship", "negroni"],
-  "website": ["www.xheal.ai", "www.applauselab.ai"]
+  "job": "co-founder & head of engineering",
+  "companies": ["xheal","applauselab"],
+  "website": ["www.xheal.ai","www.applauselab.ai"],
+  "interest": ["deeptech","traveling","healthcare","extreme_sports","entrepreneurship"],
 }
 ```
 
